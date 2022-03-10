@@ -1,0 +1,11 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: gainsboro;
+  align-items: baseline;
+}
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
